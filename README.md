@@ -1,8 +1,8 @@
 # Nested Navigation - Jetpack Compose
 
 <p align="center">
-  <a href="https://youtu.be/2sKnGloDJf0" align="center">YouTube Video Tutorial</a>
+  <a href="https://youtu.be/gg-KBGH9T8s" align="center">YouTube Video Tutorial</a>
 </p>
 <p align="center">
-  <img src="https://i.postimg.cc/y8SyRDYs/Nested-Navigation.png" href="https://youtu.be/2sKnGloDJf0">
+  <img src="https://i.postimg.cc/y8SyRDYs/Nested-Navigation.png" href="https://youtu.be/gg-KBGH9T8s">
 </p>
